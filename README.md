@@ -1,7 +1,7 @@
 <div align="center">
 <h1>TypeScript Shopping Cart</h1>
 
-![GitHub deployments](https://img.shields.io/github/deployments/asbhogal/TypeScript-Shopping-Cart/production?label=DEPLOYMENT%20STATE&style=for-the-badge&labelColor=000) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/asbhogal/TypeScript-Shopping-Cart?style=for-the-badge&labelColor=000) ![GitHub repo size](https://img.shields.io/github/repo-size/asbhogal/TypeScript-Shopping-Cart?color=blueviolet&style=for-the-badge&labelColor=000)
+![GitHub deployments](https://img.shields.io/github/deployments/Kobayashi19860206/TypeScript-Shopping-Cart/production?label=DEPLOYMENT%20STATE&style=for-the-badge&labelColor=000) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Kobayashi19860206/TypeScript-Shopping-Cart?style=for-the-badge&labelColor=000) ![GitHub repo size](https://img.shields.io/github/repo-size/Kobayashi19860206/TypeScript-Shopping-Cart?color=blueviolet&style=for-the-badge&labelColor=000)
 
 </div>
 
